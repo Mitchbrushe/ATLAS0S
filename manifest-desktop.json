@@ -1,0 +1,13 @@
+{
+  "name": "ATLAS OS Command Center",
+  "short_name": "ATLAS OS",
+  "description": "ATLAS OS command center — chat, fires, tasks, and system status.",
+  "start_url": "./desktop.html",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#050b14",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
